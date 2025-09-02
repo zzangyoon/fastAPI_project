@@ -20,4 +20,6 @@ dependencies = [
     "python-multipart>=0.0.20",
     "streamlit>=1.48.1",
     "streamlit-drawable-canvas>=0.9.3",
+    "grad-cam>=1.5.5",
+    "streamlit-image-select>=0.6.0",
 ]
